@@ -1,2 +1,1 @@
-# RedStudioWebGithub
-RedStudioWebGithub Hosting Test
+# Gitlab Hosting Test and Domain Redirect to khadyja.com
